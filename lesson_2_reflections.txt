@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A: Git begins tracking meta data for your first commit.  
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is phantom -- it's the elements in the actual working directory (folder on a harddrive) that will be added to a commit. 
+A staging area allows only what is needed for the next commit to be commited.
