@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: diff color coats the changes thus providing focus on what caused the bug.
+
+How might using version control make you more confident to make changes that could break something?
+A: Version control enables reverts back to working versions to troubleshoot recent bugs or abandon changes not to be kept in the final product.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A: For version control of the Sushine Android app (tutorial)
