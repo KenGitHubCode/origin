@@ -6,3 +6,18 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is phantom -- it's the elements in the actual working directory (folder on a harddrive) that will be added to a commit. 
 A staging area allows only what is needed for the next commit to be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+A: Prior to each commit, I'll stage only one changed file (with on locigal change). 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Situations where branching would be helpful in keeping history organized are...
+	Experimental coat being seperated from the main code
+	New feature development seperated until feature functional
+	Variations of program for testing kept seperately from main application
+
+How do the diagrams help you visualize the branch structure?
+
+A: Diagrams provide an easier to understand mapping of the structure which can be used to trace back branches and commits to their origin
