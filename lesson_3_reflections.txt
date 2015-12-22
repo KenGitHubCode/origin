@@ -1,0 +1,3 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A: Pulling manually ensures you know what has been changed before the changes or at least know that changes have occured.  this is applicable if someone else is working on the project or if you worked on it briefly while on remote.
