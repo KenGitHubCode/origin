@@ -25,3 +25,8 @@ A: Diagrams provide an easier to understand mapping of the structure which can b
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: The result is a master branch that includes the commits / code from the merged branch.  The diagram provides paths back for a clear pictures of what's in the new master branch and when items have been added.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: [Pro] Git pinpoints the differences and checks for differences to the same variables when merging.  
+[Con]Git does not determine the best choice for which code to include and still requires manual decision making.
