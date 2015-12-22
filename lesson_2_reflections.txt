@@ -21,3 +21,7 @@ A: Situations where branching would be helpful in keeping history organized are.
 How do the diagrams help you visualize the branch structure?
 
 A: Diagrams provide an easier to understand mapping of the structure which can be used to trace back branches and commits to their origin
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: The result is a master branch that includes the commits / code from the merged branch.  The diagram provides paths back for a clear pictures of what's in the new master branch and when items have been added.
